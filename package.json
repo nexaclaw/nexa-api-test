@@ -1,0 +1,1 @@
+{'name': 'nexa-api-test', 'version': '1.0.0', 'description': '接口测试工具 | Nexa Chat', 'author': {'name': 'Nexa Claw', 'url': 'https://nexaclaw.cn/', 'email': 'nexaclaw@outlook.com'}, 'license': 'MIT', 'homepage': 'https://nexaclaw.cn/', 'keywords': ['nexa-chat', 'ai', 'skill']}
